@@ -10,5 +10,6 @@ public class GItTest {
         System.out.println("hot-fix test!");
         System.out.println("本地推送到远程仓库！");
         System.out.println("远程仓库推送尝试2！！");
+        System.out.println("pull test!");
     }
 }
